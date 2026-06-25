@@ -14,7 +14,7 @@ Built as part of my ongoing Tableau learning and portfolio development journey, 
 
 ## 📸 Dashboard Preview
 
-> ![Bike Sales Dashboard Preview](sales_dashboard.png)
+> ![Bike Sales Dashboard Preview](Sales_Dashboard_2015.png)
 
 ---
 
